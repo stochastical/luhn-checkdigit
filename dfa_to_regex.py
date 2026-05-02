@@ -4,6 +4,9 @@
 #     "greenery",
 # ]
 # ///
+
+# Unlike the version in `dfa_to_regex_finite_length_strings.py`, this script generates regex patterns that decide arbitrary-length strings in the alphabet.
+
 import time
 
 import greenery
