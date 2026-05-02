@@ -78,7 +78,7 @@ if __name__ == "__main__":
         "18",
     ]
 
-    NEGATIVE_CASES = NEGATIVE_CASES = [
+    NEGATIVE_CASES = [
         "4242424242424241",
         "4000056655665555",
         "5555555555554443",
